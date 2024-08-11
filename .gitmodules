@@ -1,0 +1,15 @@
+[submodule "HexRaysCodeXplorer"]
+	path = HexRaysCodeXplorer
+	url = https://github.com/BowDown097/HexRaysCodeXplorer
+[submodule "showcomments"]
+	path = showcomments
+	url = https://github.com/BowDown097/showcomments
+[submodule "auto_re"]
+	path = auto_re
+	url = https://github.com/BowDown097/auto_re
+[submodule "ida-referee"]
+	path = ida-referee
+	url = https://github.com/BowDown097/ida-referee
+[submodule "HexRaysPyTools"]
+	path = HexRaysPyTools
+	url = https://github.com/BowDown097/HexRaysPyTools
